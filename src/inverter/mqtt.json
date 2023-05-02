@@ -1,5 +1,5 @@
 {
-  "server": "192.168.8.202",
+  "server": "192.168.8.",
   "port": "1883",
   "topic": "homeassistant",
   "devicename": "Inverter",
@@ -8,5 +8,5 @@
   "serial": "",
   "ver": "",
   "username": "mqtt",
-  "password": "serawe231"
+  "password": ""
 }
